@@ -5,6 +5,8 @@ What is DPMS ?
 DPMS is well-known as Developer Property Management System, the system implements ERP System inside the program, the functionality was made due to a lot of changes inside productivity such as Sales, Finance, Production, Logistics and Reports. This was a fixed version of DPMS longing to run in long term for PT Mitra Sejahteraland.
 For legal business you can contact me in email or through Github.
 
+
+
 *******************
 Release Information
 *******************
